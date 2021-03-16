@@ -43,8 +43,11 @@
         ],
         "clothes": [
             "dirty clothes",
+            "armored",
             "naked",
-            "fancy clothes"
+            "fancy clothes",
+            "normal clothes",
+            "don't fit the weather"
         ]
     },
     "voice": {
