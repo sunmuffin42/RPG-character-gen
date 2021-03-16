@@ -48,6 +48,19 @@
             "fancy clothes",
             "normal clothes",
             "don't fit the weather"
+        ],
+        "build": [
+            "burly, linebacker",
+            "scraggly, very thin",
+            "beer belly",
+            "pregnant",
+            "normal paunch",
+            "skinny modern beauty standard"
+        ],
+        "pronouns": [
+            "they/them",
+            "he/him",
+            "she/her"
         ]
     },
     "voice": {

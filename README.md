@@ -37,3 +37,5 @@ The result will look like this in the output file (`master_list.txt`):
 Note that the output to the terminal will appear without the name and context; the idea being that you can go into the text file afterward and add the names of people (`name`, obviously) and where the players met them (`context`).
 
 I'd recommend playing with the `characteristics.json` file just so it won't generate anything you don't want to try to do. I included things I'm fine with doing, but not everyone can do a Kiwi accent, e.g.
+
+NB: I know a lot of these things are not exclusive even in the same group (eg one can be drunk and sexy, one can use multiple sets of pronouns, etc). This is for quick decisions on the fly and is always up to the interpretation of the GM, never definitive (OBVIOUSLY).
