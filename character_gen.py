@@ -11,8 +11,7 @@ for i in range(num_chars):
     this_name = ""
     for i in range(randrange(1,3)):
         this_name += choice(onsets) + choice(nuclei) + choice(codas)
-    new_char["name"] = this_name
-    print(new_char["name"])
+    new_char["name"] = this_name.capitalize()
     for characteristic in characteristics:
         for option in characteristics[characteristic]:
             chosen = choice(characteristics[characteristic][option])

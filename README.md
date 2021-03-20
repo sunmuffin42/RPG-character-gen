@@ -9,6 +9,7 @@ When you run `$ python character_gen.py`, it will print out the generated items 
 The result will look like this in the terminal:
 ```
 {
+	name: Graib
 	race: Minotaur
 	clothes: fancy clothes
 	accents: southeastern US
@@ -22,8 +23,8 @@ The result will look like this in the terminal:
 The result will look like this in the output file (`master_list.txt`):
 ```
 {
-	name: 
 	context: 
+	name: Graib
 	race: Minotaur
 	clothes: fancy clothes
 	accents: southeastern US
